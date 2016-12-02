@@ -2,5 +2,5 @@
 
 * [Introduction](introduction.md)
    * Features of QCubed
-* Installation
+* [Installation](installation.md)
 
