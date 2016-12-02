@@ -10,7 +10,7 @@ Within the pages of this book, while you read, you will find my voice running th
 
 I hope that you are having a good time and that this book helps you get more of the good times.
 
-If you would like help with QCubed, create an issue in QCubed's official repo by going to [**https://github.com/qcubed/qcubed/issues/new**](https://github.com/qcubed/qcubed/issues/new). If you just want to reach out to me \(and probably buy me coffee ;\) or know more about me, my contacts are available at: [**vaibhavkaushal.com**](http://vaibhavkaushal.com/). 
+If you would like help with QCubed, create an issue in QCubed's official repo by going to [**https://github.com/qcubed/qcubed/issues/new**](https://github.com/qcubed/qcubed/issues/new). If you just want to reach out to me \(and probably buy me coffee ;\) or know more about me, my contacts are available at: [**vaibhavkaushal.com**](http://vaibhavkaushal.com/).
 
 ## Who is this book for?
 
@@ -25,7 +25,7 @@ This book is for the guy or girl who wants to make something - build a new produ
 4. How to use composer.
 
 
-In case you do not know about them, please learn them.
+In case you do not know about them, please learn them. There are a lot of good book and tutorials all over the web.
 
 Also, I am just going to presume the developer to be a male. Throughout the book, you will see me referring to the developer \(you\) as a male. This is not because I am sexist but because I am a male and when I started writing this book, I wrote it the way I would have wanted a book like this to be.
 
