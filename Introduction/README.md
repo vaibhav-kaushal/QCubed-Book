@@ -29,7 +29,7 @@ In case you do not know about them, please learn them. There are a lot of good b
 
 Also, I am just going to presume the developer to be a male. Throughout the book, you will see me referring to the developer \(you\) as a male. It's simply because I am a male and when I started writing this book, I wrote it the way I would have wanted a book like this to be. Out of nature \(or habit\), I just imagine I am talking to a male developer.
 
-Since I wrote most of the documentation \(except the examples\), I had to learn everything by going through the source code. If you really want to know how QCubed works, read the framework source code; there is no better way. But till the time you can, this book is here to help - it's what I wrote it for.
+Since I wrote most of the documentation that's there for QCubed \(except the examples\), I had to learn everything by going through the source code. If you really want to know how QCubed works, read the framework source code; there is no better way. But till the time you can, this book is here to help.
 
 ## Can I contribute?
 
