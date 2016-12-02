@@ -35,5 +35,5 @@ Since I wrote most of the documentation that's there for QCubed \(except the exa
 
 I would love to have contributions, suggestions and recommendations. If you have already done something with QCubed - articles, documentation, videos, made something good with the framework, let me know. I would include them in the book. Just open an issue [here](https://github.com/vaibhav-kaushal/QCubed-Book/issues) and I shall get back to you.
 
-**Next: **[**Introduction to QCubed**](/Introduction/introduction-to-qcubed.md)
+**Next:** [**Introduction to QCubed**](/Introduction/introduction-to-qcubed.md)
 
