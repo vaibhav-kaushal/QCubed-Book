@@ -1,6 +1,16 @@
-# Introduction - Hello, how are you?
+# Hi!
 
-In this chapter we will introduce to you QCubed, the true RAD framework built atop PHP. If you already know what QCubed is, you can skip it. But if you do not know what it is, chances are, you will be mind-blown by what you can do with QCubed by the time you have finished this chapter.
+In this chapter I will introduce to you QCubed, the true RAD framework built atop PHP. If you already know what QCubed is, you can skip it. But if you do not know what it is, chances are, you will be mind-blown by what you can do with QCubed by the time you have finished this chapter.
+
+But before we begin, I wanted to say a hi to you. 
+
+## Hope you're feeling great!
+
+Within the pages of this book, while you read, you will find my voice running through your head and it would be a little impolite if I started talking to you without first saying _Hi!_
+
+I hope that you are having a good time and that this book helps you get more of the good times.
+
+If you would like help with QCubed, create an issue in QCubed's official repo by going to [**https://github.com/qcubed/qcubed/issues/new**](https://github.com/qcubed/qcubed/issues/new). If you just want to reach out to me \(and probably buy me coffee ;\) or know more about me, my contacts are available at: [**vaibhavkaushal.com**](http://vaibhavkaushal.com/). 
 
 ## Who is this book for?
 
@@ -25,11 +35,7 @@ Since I wrote most of the documentation \(except the examples\), I had to learn 
 
 I would love to have contributions, suggestions and recommendations. If you have already done something with QCubed - articles, documentation, videos, made something good with the framework, let me know. I would include them in the book. Also, if you have suggestions, improvements or recommendations to make, just open an issue [here](https://github.com/vaibhav-kaushal/QCubed-Book/issues) and I shall get back to you on GitHub.
 
-## Hello
-
-Before we begin, I just want to say hello. I hope that you are having a good time and that this book helps you get more of the good times.
-
-If you would like help with QCubed, create an issue in QCubed's official repo by going to [**https://github.com/qcubed/qcubed/issues/new**](https://github.com/qcubed/qcubed/issues/new). If you just want to reach out to me \(and probably buy me coffee ;\) my contacts are available at: [**vaibhavkaushal.com**.](http://vaibhavkaushal.com/)
+## 
 
 
 
