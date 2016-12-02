@@ -1,6 +1,6 @@
 # Summary
 
 * [QCubed](README.md)
-* Introduction
+* [Introduction](Introduction)
 * Something
 
