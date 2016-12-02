@@ -2,11 +2,11 @@
 
 In this chapter I will introduce to you QCubed, the true RAD framework built atop PHP. If you already know what QCubed is, you can skip it. But if you do not know what it is, chances are, you will be mind-blown by what you can do with QCubed by the time you have finished this chapter.
 
-But before we begin, I wanted to say a hi to you. 
+But before we begin, I wanted to say a hi to you.
 
 ## Hope you're feeling great!
 
-Within the pages of this book, while you read, you will find my voice running through your head and it would be a little impolite if I started talking to you without first saying _Hi!_
+Within the pages of this book, while you read, you will find my voice running through your head and it would be a little impolite if I started talking to you without first saying _Hello!_
 
 I hope that you are having a good time and that this book helps you get more of the good times.
 
@@ -14,7 +14,7 @@ If you would like help with QCubed, create an issue in QCubed's official repo by
 
 ## Who is this book for?
 
-This book is for the guy or girl who wants to make something. Build a new product for fun, or for work. Someone who knows the basics of web and development. I am not going to teach how to install Apache web server, or MySQL or PostgreSQL databases or PHP or any of the millions of extensions. I am not going to teach the basic parts. If you are to begin, here are the things you must be knowing before you start:
+This book is for the guy or girl who wants to make something - build a new product for fun, or for work. Someone who knows the basics of web and development. I am not going to teach the basic stuff. If you are to begin with this book, here are the things you must be knowing before you start:
 
 1. How to install the servers - Apache \(web server\), MySQL or PostgreSQL \(database server\).
 
