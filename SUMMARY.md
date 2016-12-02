@@ -4,4 +4,5 @@
    * Features of QCubed
 * [Installation](installation.md)
    * What sets QCubed apart
+   * Testing a new article
 
