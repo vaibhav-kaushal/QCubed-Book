@@ -27,7 +27,7 @@ This book is for the guy or girl who wants to make something - build a new produ
 
 In case you do not know about them, please learn them. There are a lot of good book and tutorials all over the web.
 
-Also, I am just going to presume the developer to be a male. Throughout the book, you will see me referring to the developer \(you\) as a male. This is not because I am sexist but because I am a male and when I started writing this book, I wrote it the way I would have wanted a book like this to be.
+Also, I am just going to presume the developer to be a male. Throughout the book, you will see me referring to the developer \(you\) as a male. It's simply because I am a male and when I started writing this book, I wrote it the way I would have wanted a book like this to be.
 
 Since I wrote most of the documentation \(except the examples\), I had to learn everything by going through the source code. If you really want to know how QCubed works, read the framework source code; there is no better way. But till the time you can, this book is here to help - it's what I wrote it for.
 
