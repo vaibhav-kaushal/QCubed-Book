@@ -9,3 +9,5 @@ QCubed \(the **_framework_**\) is a [MVC](https://en.wikipedia.org/wiki/Model%E2
 So you can either learn more about the features, or just go ahead with Installation. 
 
 ## Features of QCubed
+Here are the features of QCubed:
+
